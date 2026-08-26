@@ -1,0 +1,39 @@
+name: Pytanie lub sugestia
+description: Zadaj pytanie dotyczące aplikacji albo zaproponuj ulepszenie.
+title: "[Wsparcie]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        To zgłoszenie będzie publiczne. Nie umieszczaj danych finansowych,
+        danych osobowych, haseł, eksportów danych ani szczegółów podatności.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Rodzaj zgłoszenia
+      options:
+        - Pytanie dotyczące użycia aplikacji
+        - Sugestia funkcji lub ulepszenia
+        - Problem z dokumentacją
+        - Inne
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Treść zgłoszenia
+      description: Opisz, czego potrzebujesz lub co proponujesz.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Dodatkowy kontekst
+      description: Opcjonalnie dodaj wersję aplikacji, urządzenie lub zanonimizowany przykład.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Prywatność
+      options:
+        - label: Potwierdzam, że zgłoszenie nie zawiera danych osobowych, finansowych, haseł ani eksportów danych.
+          required: true
