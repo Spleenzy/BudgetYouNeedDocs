@@ -1,10 +1,10 @@
-# Zgłaszanie problemów bezpieczeństwa
+# Reporting security vulnerabilities
 
-Nie zgłaszaj podatności publicznie w GitHub Issues. Wyślij opis problemu na
-[itly.company.pl@gmail.com](mailto:itly.company.pl@gmail.com) z tematem
-`[BYN Security]`.
+Do not report vulnerabilities publicly through GitHub Issues. Send a description
+of the issue to [itly.company.pl@gmail.com](mailto:itly.company.pl@gmail.com)
+with the subject line `[BYN Security]`.
 
-W zgłoszeniu podaj możliwie bezpieczny opis wpływu, środowiska i kroków
-odtworzenia. Nie dołączaj prawdziwych danych użytkowników, haseł, kluczy ani
-pełnych kopii baz danych. Po potwierdzeniu zgłoszenia ustalimy bezpieczny sposób
-dalszej komunikacji.
+Include a safe description of the impact, environment, and steps to reproduce.
+Do not attach real user data, passwords, keys, or complete database backups.
+Once we acknowledge the report, we will arrange a secure way to continue the
+conversation.

@@ -1,12 +1,11 @@
-# Współtworzenie dokumentacji
+# Contributing to the documentation
 
-Repozytorium `BudgetYouNeedDocs` służy do publicznej dokumentacji i wsparcia
-aplikacji Budget You Need. Kod aplikacji nie jest tu publikowany ani
-przyjmowany w formie pull requestów.
+The `BudgetYouNeedDocs` repository is for public documentation and support for
+Budget You Need. The app's source code is not published here, and code pull
+requests are not accepted here.
 
-Możesz zgłosić nieścisłość w dokumentacji, błąd lub propozycję jej poprawy za
-pomocą Issue. Nie umieszczaj w zgłoszeniu danych osobowych, finansowych,
-eksportów danych ani szczegółów podatności.
+You can use an Issue to report an error in the documentation or suggest an
+improvement. Do not include personal or financial data, data exports, or
+details of security vulnerabilities.
 
-W sprawie dokumentów prawnych zmiany są publikowane wyłącznie przez właściciela
-projektu po ich weryfikacji.
+Changes to legal documents are published only by the project owner after review.

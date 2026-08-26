@@ -1,39 +1,39 @@
-name: Pytanie lub sugestia
-description: Zadaj pytanie dotyczące aplikacji albo zaproponuj ulepszenie.
-title: "[Wsparcie]: "
+name: Question or feedback
+description: Ask a question about the app or suggest an improvement.
+title: "[Support]: "
 body:
   - type: markdown
     attributes:
       value: |
-        To zgłoszenie będzie publiczne. Nie umieszczaj danych finansowych,
-        danych osobowych, haseł, eksportów danych ani szczegółów podatności.
+        This ticket will be public. Do not include financial data, personal
+        data, passwords, data exports, or vulnerability details.
   - type: dropdown
     id: type
     attributes:
-      label: Rodzaj zgłoszenia
+      label: Request type
       options:
-        - Pytanie dotyczące użycia aplikacji
-        - Sugestia funkcji lub ulepszenia
-        - Problem z dokumentacją
-        - Inne
+        - Question about using the app
+        - Feature or improvement suggestion
+        - Documentation issue
+        - Other
     validations:
       required: true
   - type: textarea
     id: request
     attributes:
-      label: Treść zgłoszenia
-      description: Opisz, czego potrzebujesz lub co proponujesz.
+      label: Request details
+      description: Describe what you need or what you suggest.
     validations:
       required: true
   - type: textarea
     id: context
     attributes:
-      label: Dodatkowy kontekst
-      description: Opcjonalnie dodaj wersję aplikacji, urządzenie lub zanonimizowany przykład.
+      label: Additional context
+      description: Optionally add the app version, device, or an anonymized example.
   - type: checkboxes
     id: privacy
     attributes:
-      label: Prywatność
+      label: Privacy
       options:
-        - label: Potwierdzam, że zgłoszenie nie zawiera danych osobowych, finansowych, haseł ani eksportów danych.
+        - label: I confirm that this report contains no personal or financial data, passwords, or data exports.
           required: true

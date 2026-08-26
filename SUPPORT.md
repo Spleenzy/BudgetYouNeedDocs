@@ -1,34 +1,34 @@
-# Wsparcie i zgłoszenia
+# Support and reporting
 
-## Zgłaszanie błędów
+## Report a bug
 
-Użyj formularza [Zgłoś błąd](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=bug_report.yml).
-Podaj wersję aplikacji, urządzenie i system operacyjny, kroki pozwalające
-odtworzyć problem oraz oczekiwany i faktyczny rezultat. Screenshot jest
-pomocny, jeśli nie zawiera wrażliwych informacji.
+Use the [Report a bug](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=bug_report.yml)
+form. Include the app version, device and operating system, steps to reproduce,
+and the expected and actual results. A screenshot is helpful when it contains
+no sensitive information.
 
-## Pytania i sugestie
+## Questions and feedback
 
-Użyj formularza [Pytanie lub sugestia](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=support_or_feedback.yml).
-Każde zgłoszenie jest ticketem publicznego wsparcia; odpowiedzi i status będą
-widoczne dla innych użytkowników.
+Use the [Question or feedback](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=support_or_feedback.yml)
+form. Each submission is a public support ticket, so its status and responses
+will be visible to other users.
 
-## Chroń swoje dane
+## Protect your data
 
-Publiczny Issue nie jest właściwym miejscem na dane osobowe ani finansowe. Nie
-publikuj w nim między innymi:
+A public Issue is not the right place for personal or financial information.
+Do not post:
 
-- danych logowania, haseł, kluczy lub kodów odzyskiwania;
-- eksportów, kopii bazy danych i plików zawierających dane aplikacji;
-- numerów kont, kart, transakcji, danych adresowych lub cudzych danych;
-- materiału ujawniającego lukę bezpieczeństwa, zanim zostanie naprawiona.
+- login details, passwords, keys, or recovery codes;
+- exports, database backups, or files containing app data;
+- account or card numbers, transactions, address information, or other people's data;
+- material that discloses a security vulnerability before it has been fixed.
 
-W sprawie prywatności napisz na
-[itly.company.pl@gmail.com](mailto:itly.company.pl@gmail.com). Podejrzenia
-dotyczące bezpieczeństwa zgłaszaj zgodnie z [SECURITY.md](SECURITY.md).
+For privacy matters, email
+[itly.company.pl@gmail.com](mailto:itly.company.pl@gmail.com). Report suspected
+security issues as described in [SECURITY.md](SECURITY.md).
 
-## Status zgłoszeń
+## Ticket status
 
-Zespół może oznaczyć ticket jako wymagający dodatkowych informacji, duplikat,
-zaplanowany lub rozwiązany. Zgłoszenie nie jest gwarancją wdrożenia funkcji ani
-określonego terminu odpowiedzi.
+The team may mark a ticket as requiring more information, duplicate, planned,
+or resolved. A ticket does not guarantee that a feature will be implemented or
+that a response will be provided within a specified period.

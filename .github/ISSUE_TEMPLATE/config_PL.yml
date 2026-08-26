@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Prywatność i dane osobowe
+    url: mailto:itly.company.pl@gmail.com?subject=%5BBYN%20Privacy%5D
+    about: Napisz prywatnie w sprawie danych osobowych lub polityki prywatności.
+  - name: Problem bezpieczeństwa
+    url: mailto:itly.company.pl@gmail.com?subject=%5BBYN%20Security%5D
+    about: Nie publikuj szczegółów podatności w publicznym Issue.

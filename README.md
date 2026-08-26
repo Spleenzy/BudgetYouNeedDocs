@@ -1,28 +1,29 @@
-# Budget You Need — publiczna dokumentacja i pomoc
+# Budget You Need — public documentation and support
 
-To repozytorium jest publicznym miejscem dla dokumentacji aplikacji **Budget
-You Need (BYN)**, zgłoszeń użytkowników oraz aktualnej polityki prywatności.
-Kod źródłowy aplikacji jest przechowywany w osobnym, prywatnym repozytorium.
+This public repository contains documentation for **Budget You Need (BYN)**,
+user support tickets, and the current privacy policy. The application's source
+code is kept in a separate, private repository.
 
-## Potrzebujesz pomocy?
+[Polska wersja / Polish version](README_PL.md)
 
-- [Zgłoś błąd](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=bug_report.yml)
-- [Wyślij pytanie lub sugestię](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=support_or_feedback.yml)
-- Przeczytaj [zasady zgłoszeń](SUPPORT.md) przed opublikowaniem ticketu.
+## Need help?
 
-Nie publikuj w Issue danych finansowych, haseł, kluczy, pełnych kopii zapasowych
-ani innych danych osobowych. W sprawach dotyczących prywatności lub
-bezpieczeństwa skorzystaj z prywatnego kontaktu wskazanego w
-[polityce prywatności](PRIVACY_POLICY.md).
+- [Report a bug](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=bug_report.yml)
+- [Ask a question or share feedback](https://github.com/Spleenzy/BudgetYouNeedDocs/issues/new?template=support_or_feedback.yml)
+- Read the [support and reporting guidelines](SUPPORT.md) before creating a ticket.
 
-## Dokumenty
+Do not post financial data, passwords, keys, full backups, or other personal
+data in an Issue. For privacy or security matters, use the private contact
+method in the [privacy policy](PRIVACY_POLICY.md).
 
-- [Polityka prywatności / Privacy Policy](PRIVACY_POLICY.md)
-- [Wsparcie i zgłoszenia](SUPPORT.md)
-- [Zasady współtworzenia dokumentacji](CONTRIBUTING.md)
-- [Polityka zgłaszania podatności](SECURITY.md)
+## Documents
 
-## Status dokumentów
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Support and reporting](SUPPORT.md)
+- [Documentation contribution guidelines](CONTRIBUTING.md)
+- [Security vulnerability reporting policy](SECURITY.md)
 
-Dokumenty w tym repozytorium dotyczą aktualnie wydanej wersji aplikacji.
-Data wejścia w życie polityki prywatności: **30 lipca 2026 r.**
+## Document status
+
+These documents apply to the currently released version of the app. Privacy
+policy effective date: **30 July 2026**.
